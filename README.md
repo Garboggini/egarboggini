@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently learning JS and Python <br> 🚀 Goals: To code every single day until I achieve mastery in my field. <br> 🖖🏻 Fun fact: When I was a kid I wanted to be a jedi, and now I settle for studying klingon. </p>
+<p align="left">✨ I'm currently learning JS and Python <br> 🚀 Goals: To code every single day until I achieve mastery in my field <br> 🖖🏻 Fun fact: When I was a kid I wanted to be a jedi, and now I settle for studying klingon </p>
 
 ###
 
