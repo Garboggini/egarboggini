@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm currently learning JS and Python<br> 🎯 Goals: Code every single day 🖖🏻 Fun fact: I’m a certified nerd and geek. When I was a kid I wanted to be a jedi, but now I settle for studying klingon. </p>
+<p align="left">💻 I'm currently learning JS and Python <br> 🎯 Goals: To coding every single day with dedication and passion, striving for continuous improvement until I achieve mastery in my field. <br> 🖖🏻 Fun fact: When I was a kid I wanted to be a jedi, and now I settle for studying klingon. </p>
 
 ###
 
