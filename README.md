@@ -1,4 +1,4 @@
-<h1 align="left">Hello <s>There</s> World ! 🪐 </h1>
+<h1 align="left">Hello There ! 🪐 </h1>
 
 ###
 
