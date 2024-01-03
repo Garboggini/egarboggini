@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Garboggini, a brazilian student of frontend development and data science. </p>
+<p align="left">I'm Garboggini, a brazilian student of frontend development and data science. <br> Eu sou o Garboggini, um estudante brasileiro de desenvolvimento frontend e ciência de dados </p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🧙🏻‍♂️ I'm currently learning JS and Python <br> 🚀 Goals: To code every single day until I achieve mastery in my field <br> ☀️ Fun fact: In my city it is summer all year round </p>
+<p align="left">🧙🏻‍♂️ I'm currently learning JS and Python <br> Atualmente eu estou aprendendo JS e Python <br> 🚀 Goals: To code every single day until I achieve mastery in my field <br> Programar todo santo dia até atingir a maestria na minha área <br> ☀️ Fun fact: In my city it is summer all year round <br> Em minha cidade é verão o ano todo! </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with <br> Eu programo com</h2>
 
 ###
 
