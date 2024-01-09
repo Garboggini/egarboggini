@@ -1,4 +1,4 @@
-<h1 align="left">Hello There ! 🪐 </h1>
+<h1 align="left">Hello There ! 🖖🏻 </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧙🏻‍♂️ I'm currently learning JS and Python. <p> 🚀 Goals: To code every single day until I achieve mastery in my field. <p> 🖖🏻 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope they create a warp drive. </p>
+<p align="left">🧙🏻‍♂️ I'm currently learning JS and Python. <p> 🚀 Goals: To code every single day until I achieve mastery in my field. <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope they create a warp drive. </p>
 
 ###
 
