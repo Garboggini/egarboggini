@@ -30,7 +30,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=egarboggini&theme=elegant)](https://git.io/streak-stats)
+
 
 ###
 
