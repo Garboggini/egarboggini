@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧙🏻‍♂️ I'm currently learning JS and Python. <p> 🚀 Goals: To code every single day until I achieve mastery in my field. <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope they create a warp drive. </p>
+<p align="left">🧙🏻‍♂️ I'm currently learning JS. <p> 🚀 Goals: To code every single day until I achieve mastery in my field. <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope they create a warp drive. </p>
 
 ###
 
@@ -25,7 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
