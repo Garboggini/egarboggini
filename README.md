@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧙🏻‍♂️ I'm currently learning JS. <p> 🚀 Goals: Work as a front-end developer <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope someone create a warp drive. </p>
+<p align="left">🧙🏻‍♂️ I'm currently learning JS <p> 🚀 Goals: Work as a front-end developer <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek </p>
 
 ###
 
