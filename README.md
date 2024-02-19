@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧙🏻‍♂️ I'm currently learning JS. <p> 🚀 Goals: To achieve mastery in my field. <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope they create a warp drive. </p>
+<p align="left">🧙🏻‍♂️ I'm currently learning JS. <p> 🚀 Goals: Work as a front-end developer <p> 🪐 Fun fact: I'm a big fan of Star Wars and Star Trek and while I don't become a Jedi I hope someone create a warp drive. </p>
 
 ###
 
@@ -26,10 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
-
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=egarboggini&theme=elegant)](https://git.io/streak-stats)
 
 ###
 
