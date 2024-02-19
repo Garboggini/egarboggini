@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Garboggini, a brazilian student of frontend development and data science. </p>
+<p align="left">I'm a brazilian student of frontend development and data science. </p>
 
 ###
 
